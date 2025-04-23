@@ -1,4 +1,4 @@
-    # Discord.js v14 Slashlı So Coordinat Botu
+    # Discord.js v14 Slashlı Advanced Ticket Bot
 
 # Kurulum
 1. Config Dosyasını Düzenleyin:

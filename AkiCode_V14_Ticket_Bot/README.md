@@ -16,7 +16,6 @@
 
 2. Gerekli Paketleri Yükleyin:
 ```
-npm i discord.js
 npm install
 ```
 
